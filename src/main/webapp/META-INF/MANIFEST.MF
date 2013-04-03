@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: jaxen-1.1.1.jar dom4j-1.6.1.jar jdom-1.0.jar xml-apis-1.3.
+ 02.jar xercesImpl-2.6.2.jar xom-1.0.jar xmlParserAPIs-2.6.2.jar xalan
+ -2.6.0.jar icu4j-2.6.1.jar cxf-rt-frontend-jaxws-2.7.3.jar xml-resolv
+ er-1.2.jar asm-3.3.1.jar cxf-api-2.7.3.jar woodstox-core-asl-4.1.4.ja
+ r stax2-api-3.1.1.jar xmlschema-core-2.0.3.jar geronimo-javamail_1.4_
+ spec-1.7.1.jar wsdl4j-1.6.2.jar cxf-rt-core-2.7.3.jar jaxb-impl-2.2.6
+ .jar cxf-rt-bindings-soap-2.7.3.jar cxf-rt-databinding-jaxb-2.7.3.jar
+  cxf-rt-bindings-xml-2.7.3.jar cxf-rt-frontend-simple-2.7.3.jar cxf-r
+ t-transports-http-2.7.3.jar cxf-rt-ws-addr-2.7.3.jar cxf-rt-ws-policy
+ -2.7.3.jar neethi-3.0.2.jar spring-web-3.0.7.RELEASE.jar aopalliance-
+ 1.0.jar spring-beans-3.0.7.RELEASE.jar spring-core-3.0.7.RELEASE.jar 
+ spring-asm-3.0.7.RELEASE.jar commons-logging-1.1.1.jar spring-context
+ -3.0.7.RELEASE.jar spring-aop-3.0.7.RELEASE.jar spring-expression-3.0
+ .7.RELEASE.jar
+
