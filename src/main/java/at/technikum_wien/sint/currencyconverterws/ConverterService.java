@@ -141,8 +141,7 @@ public class ConverterService {
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}
-
-		// iterate through child elements of root with element name "foo"
+		
 		for (Iterator<Element> i = nodes.iterator(); i.hasNext();) {
 			Element currency = (Element) i.next();
 			currencies.put(currency.attribute("currency").getValue(),
